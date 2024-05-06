@@ -1,1 +1,1 @@
-This is a project designed in XCode using swift to open up a webview page and use an iPhone camera, however it's currently riddled with errors.
+This is a project designed in XCode using swift to open up a webview page and use an iPhone camera, however it's currently riddled with errors. In the folder are a couple of files, but the only one that is able to be coded in is Ahmed20%-Project.xcodeproj. Only dependencies are XCode.
